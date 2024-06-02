@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="ProjektZespolowy" />
+              <option name="sdkName" value="torch_gpu_test" />
             </JupyterConnectionParameters>
           </value>
         </entry>

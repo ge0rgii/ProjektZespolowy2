@@ -1,3 +1,3 @@
-# Ignore the CIFAR-10 dataset tar file
-cifar-10-python.tar.gz
-/data/cifar-10-python.tar.gz
+# Ignore large files
+best_model_vit.pth
+vit_cifar10.pth
